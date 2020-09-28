@@ -1,5 +1,7 @@
 # CRUD-FlaskMySQL
 
+Todo el codigo esta en app.py
+
 # Librerias:
 
 mysqlclient-1.4.6-cp38-cp38-win32.whl
@@ -21,4 +23,6 @@ pip install mysqlclient-1.4.6-cp38-cp38-win32.whl
 y ahora si podremos instalar
 
 pip install flask-mysqldb
+
+
 
